@@ -1,0 +1,26 @@
+{
+  "name": "webapp3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "temirlan",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "jshint": "^2.13.4",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.6.0",
+    "request": "^2.88.2",
+    "request-promis": "0.0.1-security",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "es-check": "^6.2.1"
+  }
+}
